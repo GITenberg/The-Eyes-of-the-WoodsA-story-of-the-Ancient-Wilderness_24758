@@ -1,0 +1,30 @@
+_repo: The-Eyes-of-the-WoodsA-story-of-the-Ancient-Wilderness_24758
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24758-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, J. A. (Joseph Alexander)
+    - Altsheler, Joseph Alexander
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: ''
+gutenberg_issued: '2008-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+title: 'The Eyes of the Woods: A Story of the Ancient Wilderness'
+url: http://www.gutenberg.org/ebooks/24758
