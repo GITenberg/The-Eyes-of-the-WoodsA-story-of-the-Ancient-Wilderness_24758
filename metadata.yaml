@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2561
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24758#The-Eyes-of-the-WoodsA-story-of-the-Ancient-Wilderness
 gutenberg_issued: '2008-03-05'
 gutenberg_type: Text
 identifiers:
